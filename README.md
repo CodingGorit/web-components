@@ -2,11 +2,20 @@
 using HTML + CSS + JavaScript writing components
 
 ## categories
-1. bg — 渐变背景
-2. modal 弹窗卡片
-3. loading 动效
-4. tabBar tab 栏目
-
+```JavaScript
+- components
+    - bg 渐变背景
+    - global
+        - global.css
+        - animation.css
+    - loading (component)
+    - modal (component)
+    - tabBar (component)
+    - template
+    - utils
+- docs
+- README.md
+```
 
 ## TODO
 - loading 全局加载
@@ -16,3 +25,6 @@ using HTML + CSS + JavaScript writing components
 - TimeLine
 - sideMenu
 - nav
+
+## update log
+- 初始化项目，并新建三个 web 组件（loading、tabBar、modal） — 2022年8月7日
