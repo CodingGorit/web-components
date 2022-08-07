@@ -1,0 +1,20 @@
+
+/* =================
+        初始化
+==================== */
+:root {
+    --base-bg-color: #eee;
+
+
+    /* 基础配置 */
+    --base-margin: 15px;
+    --base-padding: 15px;
+}
+
+.aaa {
+    margin: var(--base-margin);
+}
+
+.bbb {
+    padding: var(--base-padding)
+}
