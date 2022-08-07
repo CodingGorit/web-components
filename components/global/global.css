@@ -1,20 +1,31 @@
+/*
+    Copyright@ 2022 by CodingGorit
+*/
 
 /* =================
         初始化
 ==================== */
 :root {
-    --base-bg-color: #eee;
+    /* ----- 基础背景颜色 ----- */
+    --bg-color-yellow: #fbffab;
+    --bg-color-orange: #ffbe08; 
 
+    --bg-color-pink-light: #FCC5DA;
+    --bg-color-pink: #F988BE;
 
-    /* 基础配置 */
-    --base-margin: 15px;
-    --base-padding: 15px;
-}
+    /* 适用于天空色 */
+    --bg-color-blue-light: #ade5f5;
+    --bg-color-blue: #326BF7;
 
-.aaa {
-    margin: var(--base-margin);
-}
+    /* 适用于简约色调 */
+    --bg-color-gray-light: #d8dcd6;
+    --bg-color-gray: #D3D7D0;
 
-.bbb {
-    padding: var(--base-padding)
+    /* ----- 控件主色调 ----- */
+
+    /* ----- 文字主颜色 ----- */
+
+    /* ----- 基础配置 ----- */
+    --container-margin: 15px;
+    --container-padding: 15px;
 }

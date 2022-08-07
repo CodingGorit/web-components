@@ -1,0 +1,15 @@
+/*
+    Copyright@ 2022 by CodingGorit
+
+*/
+
+/* 显示模态框 */
+@keyframes showModal {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
